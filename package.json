@@ -1,0 +1,20 @@
+{
+  "name": "serverless-shaheerashan",
+  "version": "1.0.0",
+  "description": "✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/serverless-shaheerashan.git"
+  },
+  "keywords": [],
+  "author": "Shaheer Ashan <shaheer.ashan@gmail.com> (https://github.com/shaheerashan)",
+  "license": "Student",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/serverless-shaheerashan/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/serverless-shaheerashan#readme"
+}
